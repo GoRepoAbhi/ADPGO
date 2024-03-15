@@ -1,0 +1,1 @@
+Niladic is a function is a program having no arguemtns
